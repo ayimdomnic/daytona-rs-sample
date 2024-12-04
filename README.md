@@ -2,10 +2,6 @@
 
 This repository contains a sample project showcasing how to build a web application using **Rust** and **Actix-Web**. It is designed as a template for Daytona samples and adheres to the MIT License.  
 
-You can use this repository as a starting point to create your own Daytona-compatible samples and submit them for inclusion in [Daytona](https://github.com/daytonaio/daytona).  
-
-Once your sample is complete and merged, submit it to the Daytona [index file](https://github.com/daytonaio/daytona/blob/main/hack/samples/index.json) via a pull request.  
-
 ---
 
 ## 📝 Overview  
